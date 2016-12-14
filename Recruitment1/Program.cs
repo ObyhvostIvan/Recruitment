@@ -16,14 +16,14 @@ namespace Recruitment1
             IStoresRepository repository = new StoresRepository();
 
             var stores = repository.GetStores();
-            //foreach (var name in stores)
-            //{
-            //    if (name.Bill.Any(x => x.Item.Engine == "Electric"))
-            //    {
-            //        Console.WriteLine(name.City); 
-            //    }
-                
-            //}
+            foreach (var name in stores)
+            {
+                if (name.Bill.Any(x => x.Item.Engine == "Electric"))
+                {
+                    Console.WriteLine(name.City);
+                }
+
+            }
             //var q = stores.SelectMany(x => x.Bill.GroupBy(y => y.Client).Select(g => new {Name = g.Key.Name, Count = g.Count()}));
             //foreach (var store in q)
             //{
@@ -43,12 +43,6 @@ namespace Recruitment1
                   //  .SelectMany(y => y.Bill.Where(h => h.SoldDate.Year == new DateTime(2016, 1, 1).Year))
                   //  .Sum(p => p.Price);
             //имя владельца, что имеет 2 машины
-            //var names = stores.SelectMany(x => x.Bill.GroupBy(y => y.Client).Select(q => new { Name = q.Key.Name, Count = q.Count() }));
-            //foreach (var name in names)
-            //{
-            //    if (name.Count > 1)
-            //        Console.WriteLine(name.Name);
-            //}
         }
     }
 }
