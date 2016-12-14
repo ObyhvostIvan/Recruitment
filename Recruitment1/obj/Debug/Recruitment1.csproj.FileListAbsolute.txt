@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Recruitment1\Recruitment1\bin\Debug\Recruitment1.exe.config
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\bin\Debug\Recruitment1.exe.config
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\bin\Debug\Recruitment1.exe
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\bin\Debug\Recruitment1.pdb
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\bin\Debug\Recruitment1.Shared.dll
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\bin\Debug\Recruitment1.Shared.pdb
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\obj\Debug\Recruitment1.csprojResolveAssemblyReference.cache
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\obj\Debug\Recruitment1.exe
+C:\Users\Иван\AppData\Roaming\Skype\My Skype Received Files\Recruitment1\Recruitment1\obj\Debug\Recruitment1.pdb
+E:\Project\Recruitment1\Recruitment1\bin\Debug\Recruitment1.exe.config
+E:\Project\Recruitment1\Recruitment1\obj\Debug\Recruitment1.exe
+E:\Project\Recruitment1\Recruitment1\obj\Debug\Recruitment1.pdb
