@@ -43,12 +43,12 @@ namespace Recruitment1
                   //  .SelectMany(y => y.Bill.Where(h => h.SoldDate.Year == new DateTime(2016, 1, 1).Year))
                   //  .Sum(p => p.Price);
             //имя владельца, что имеет 2 машины
-            var names = stores.SelectMany(x => x.Bill.GroupBy(y => y.Client).Select(q => new { Name = q.Key.Name, Count = q.Count() }));
-            foreach (var name in names)
-            {
-                if (name.Count > 1)
-                    Console.WriteLine(name.Name);
-            }
+            //var names = stores.SelectMany(x => x.Bill.GroupBy(y => y.Client).Select(q => new { Name = q.Key.Name, Count = q.Count() }));
+            //foreach (var name in names)
+            //{
+            //    if (name.Count > 1)
+            //        Console.WriteLine(name.Name);
+            //}
         }
     }
 }
